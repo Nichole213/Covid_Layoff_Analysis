@@ -1,10 +1,10 @@
 # Covid_Layoff_Analysis
-I conducted a comprehensive data cleaning, analysis and visualization project on a worldwide workforce layoffs dataset from Covid-19 onset to 2023.
+The file data_clean_layoffs.sql shows the data cleaning process of the raw dataset, and data_analysis_layoffs.sql shows the data analysis process. 
 
-I utilized MySQL for efficient querying and transformation of large datasets; standardized data formats by removing redundant entries and merging duplicated information, resulting in improved data readiness for subsequent analysis.
+This is a comprehensive data cleaning, analysis and visualization project on a worldwide workforce layoffs dataset from Covid-19 onset to 2023.
 
-With the cleaned data, I performed data analysis, using MySQL, to investigate the impact of Covid-19 on layoffs by geography, time, companies, and so on.
-
+I utilized MySQL to standardized data formats by removing redundant entries and merging duplicated information, resulting in improved data readiness for subsequent analysis.
+With the cleaned data, I performed data analysis using MySQL, to investigate the impact of Covid-19 on layoffs by geography, time, companies, and so on.
 After I retrive the data to identify the possible trends of Covid layoffs by measurement, I visualized my finding with Power BI.
 
 The Power BI report shows the possible impact of covid on worldwide labour layoffs from covid onset to 2023. The trends across geography, time, and different companies are highlighted above. Specifically in the "Total Layoff and Its Rolling Sum" diagram, the columns indicate the total layoff while the trend line shows the layoff rolling total.
